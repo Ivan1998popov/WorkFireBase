@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WorkFireBase</string>
+
+    <string name="WorkFireBase">WorkFireBase</string>
+    <string name="app_name_after">Register App</string>
+    <string name="text_bottom">Войдите в свою учетную запись!</string>
+
+
+    <string name="btnSignIn">Войти</string>
+    <string name="btnRegister">Зарегистрироваться</string>
+</resources>
